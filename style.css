@@ -1,0 +1,24 @@
+/*!
+Theme Name: Divi Child
+Theme URI: http://www.elegantthemes.com/gallery/divi/
+Version: 3.0.90
+Description: Divi Child Themme
+Author: Elegant Themes
+Author URI: http://www.elegantthemes.com
+Template: Divi
+Tags: responsive-layout, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, featured-images, full-width-template, post-formats, rtl-language-support, theme-options, threaded-comments, translation-ready
+License: GNU General Public License v2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+@import url("../Divi/style.css");
+
+@import url("css/main.css");
+
+.listing-inner .post-cat{
+	display: inline-block;
+	background-color: #cd5c5c;
+	padding: 2px 5px;
+	color: #FFF;
+	margin-bottom: 10px;	
+}
